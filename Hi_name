@@ -1,0 +1,17 @@
+print('Hi!')
+name = input('Enter your name : ')
+
+print('Hello '+name)
+print('Welcome to Python Stuffs ',name)
+
+
+
+'''
+OUTPUT
+
+Hi!
+Enter your name : Batman
+Hello Batman
+Welcome to Python Stuffs  Batman
+
+'''
