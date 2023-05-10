@@ -1,0 +1,27 @@
+print('Lets comment!')
+
+ # Single line comment 
+ 
+print('We use # for single line.')
+
+''' 
+ For 
+ multiple 
+ lines 
+'''
+
+""" Also in double quotes """
+
+print("We use ''' for multiple lines.\n We can use single or double quotes! ")
+
+
+
+''' 
+OUTPUT
+
+Lets comment!
+We use # for single line.
+We use ''' for multiple lines.
+ We can use single or double quotes! 
+ 
+ '''
