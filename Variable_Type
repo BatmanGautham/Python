@@ -1,0 +1,37 @@
+print("The Type of the Variables")
+print("a = 5\nb = 3.6\nc = 'Hello'\nd =  True\ne = [1,2,'Hi',4,5]\nf = 11,22,33,'Hey',44,55\n")
+
+a = 5
+b = 3.6
+c = 'Hello'
+d =  True
+e = [1,2,'Hi',4,5]
+f = 11,22,33,'Hey',44,55
+
+print("a : ",type(a))
+print("b : ",type(b))
+print("c : ",type(c))
+print("d : ",type(d))
+print("e : ",type(e))
+print("f : ",type(f))
+
+
+'''
+OUTPUT
+
+
+The Type of the Variables
+a = 5
+b = 3.6
+c = 'Hello'
+d =  True
+e = [1,2,'Hi',4,5]
+f = 11,22,33,'Hey',44,55
+
+a :  <class 'int'>
+b :  <class 'float'>
+c :  <class 'str'>
+d :  <class 'bool'>
+e :  <class 'list'>
+f :  <class 'tuple'>
+'''
