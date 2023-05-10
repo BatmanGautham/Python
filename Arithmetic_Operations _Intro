@@ -1,0 +1,33 @@
+print('Arithmetic Operations between two numbers!')
+
+a = int(input('Enter First number : '))
+b = int(input('Enter Second number : '))
+
+print('Sum is : '+ str(a+b)) 
+
+print('Difference is : '+ str(a-b))
+
+print('Product is : '+ str(a*b))
+
+print('Quotient is : '+ str(a/b))
+
+print('Floor Division Quotient is : '+ str(a//b))
+
+print('Exponential result is : '+ str(a**b))
+
+
+
+'''
+OUTPUT
+
+Arithmetic Operations between two numbers!
+Enter First number : 5
+Enter Second number : 2
+Sum is : 7
+Difference is : 3
+Product is : 10
+Quotient is : 2.5
+Floor Division Quotient is : 2
+Exponential result is : 25
+
+'''
